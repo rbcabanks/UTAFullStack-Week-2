@@ -43,7 +43,7 @@ a {
     white-space: pre;
     /*use instead of br because we can only edit the CSS*/
     line-height: 50px;
-    background-color: rgba(93, 93, 210, 0.541);
+    background-color: rgb(116, 116, 200);
     border-radius: 10px;
     border: 1px solid rgb(116, 116, 200);
     color: rgb(255, 255, 255);
